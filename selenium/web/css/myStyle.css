@@ -1,0 +1,41 @@
+.customdiv{
+text-align: center;
+background-color:rgba(127,219,112,0.61);
+padding:18px;
+font-size:20px;
+border-color:#000;
+border:thick;
+}
+
+.img{
+height: 300px;	
+}
+
+.customdiv_main{
+text-align: center;
+background-color:rgba(127,219,112,0.61);
+padding:18px;
+font-size:20px;
+border-color:#000;
+border:thick;
+height:200px;	
+}
+
+.sidebar{
+  background: #ccc;
+}
+
+.small-sidebar{
+	padding: 5%;
+    margin: 2%;
+    text-align: center;
+}
+
+.big-sidebar{
+	padding: 5%; 
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+    padding-top: 1%;
+    text-align: center;
+}

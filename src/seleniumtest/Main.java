@@ -22,6 +22,8 @@ public class Main {
 		
 		driver.findElement(By.xpath("//*[@id=\"btn-submit\"]")).click();
 		
+		driver.navigate().back();
+		
 		
 		////*[@id="exampleInputEmail1"]
 		
