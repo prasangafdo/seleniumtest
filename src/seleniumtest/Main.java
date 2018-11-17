@@ -14,7 +14,7 @@ public class Main {
 		System.setProperty("webdriver.chrome.driver","/seleniumtest/selenium/chromedriver.exe");
 
 		//driver.get("https://www.seleniumhq.org/download/");
-		driver.get("file:///C:/Users/Prasanga%20Fernando/Documents/Development/Web/Bootstrap/form.html?");
+		driver.get("file:///C:/Users/Prasanga%20Fernando/Documents/Development/Automation/Selenium/Eclipse/seleniumtest/web/form.html");
 		
 		//driver.manage().window().maximize();//To maximize the window.
 		
